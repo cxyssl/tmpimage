@@ -1,1 +1,1 @@
-FROM alpine-java:v2.0
+FROM alpine-java:latest

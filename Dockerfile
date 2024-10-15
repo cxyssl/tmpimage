@@ -1,1 +1,1 @@
-FROM alpine-java:latest
+FROM rancher/pause@sha256:362fc0f8178ce1f6e60d96df83616cc3597ed589caf717eac2f46508ba2c109e
